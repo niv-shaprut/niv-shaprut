@@ -1,5 +1,4 @@
 # Niv Shaprut 
-# # Niv Shaprut
 
 I build applications and digital tools that help businesses manage their day-to-day operations more effectively.
 
